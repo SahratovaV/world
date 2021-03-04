@@ -1,9 +1,3 @@
-# User agreement 
-
-Please check out License Agreement for personal usage terms and limitations
-
----
-
 # Math formulas
 ## Area
 - Circle: S = πR²
@@ -14,4 +8,3 @@ Please check out License Agreement for personal usage terms and limitations
 - Circle: P = 2πR
 - Rectangle: P = 2a + 2b
 - Square: P = 4a
-
